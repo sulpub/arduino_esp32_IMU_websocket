@@ -1,0 +1,11 @@
+name=ESP32_MPU9250_websocket
+version=1.0.0
+Date=22/02/2020
+author=Sully
+Environment=Arduino
+maintainer=Sully <sulpub>
+sentence=Cube motion with weksocket using M5STACK and M5STICK module
+category=Sensors IMU,Communication using websocket via wifi.
+url=https://github.com/sulpub/arduino_esp32_IMU_websocket.git
+architectures=*
+Keywords=IMU,ESP32,M5STACK,M5STICK,WEBSOCKET,WIFI
