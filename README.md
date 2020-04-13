@@ -5,7 +5,13 @@ For the demonstration we used these parts :
  1. M5Stack or M5Stick developement board with Arduino software for the capture motion and send data using websocket. 
  2. Web page animation that capture using websocket the position of the develpement board.
 
-(images/esp32_IMU_websocket.png)
+<p align="center">
+ 
+ ![Demonstrator information ](https://github.com/sulpub/arduino_esp32_IMU_websocket/blob/master/images/esp32_IMU_websocket.png)
+ 
+ <br>
+ *Demonstrator information*
+</p>
 
 The demonstration follow these stages:
  1. The M5stack/M5stick start, init sensors and peripherals and make a wifi connexion (for this demonstration the smartphone share wifi when you want to make this demonstration far from your home).
