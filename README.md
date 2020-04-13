@@ -1,4 +1,4 @@
-# arduino_esp32_IMU_websocket
+# arduino_esp32_IMU_websocket Project
 Motion visualisation with ESP32 device using websocket.
 
 For the demonstration we used these parts :
@@ -29,5 +29,3 @@ The demonstration follow these stages:
  <br>
  <i>Interface on the screen of the M5stack devboard</i>
 </p>
-
-
