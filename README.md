@@ -28,4 +28,14 @@ The demonstration follow these stages:
  <img width="320" src="https://github.com/sulpub/arduino_esp32_IMU_websocket/blob/master/images/informations.jpg">
  <br>
  <i>Interface on the screen of the M5stack devboard</i>
+ <br>
 </p>
+
+<p align="center">
+ <img src="https://github.com/sulpub/arduino_esp32_IMU_websocket/blob/master/images/esp32_IMU_websocket_webpage.png">
+ <br>
+ <i>Webpage capture with the M5stack devboard</i>
+</p>
+
+
+
