@@ -6,11 +6,9 @@ For the demonstration we used these parts :
  2. Web page animation that capture using websocket the position of the develpement board.
 
 <p align="center">
- 
- ![Demonstrator information ](https://github.com/sulpub/arduino_esp32_IMU_websocket/blob/master/images/esp32_IMU_websocket.png)
- 
+  <img width="522" src="https://github.com/sulpub/arduino_esp32_IMU_websocket/blob/master/images/esp32_IMU_websocket.png">
  <br>
- *Demonstrator information*
+ <i>Demonstrator information</i>
 </p>
 
 The demonstration follow these stages:
